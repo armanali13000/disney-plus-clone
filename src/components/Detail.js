@@ -20,12 +20,18 @@ function Detail() {
           <span>TRAILER</span>
         </TrailerButton>
         <AddButton>
-
+          <span>+</span>
         </AddButton>
         <GroupWatchButton>
-
+          <img src="/images/group-icon.png" />
         </GroupWatchButton>
       </Controls>
+        <SubTitle>
+          6 May 2022 • 02h06m • Superhero, Adventures
+        </SubTitle>
+      <Description>
+      Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.
+      </Description>
     </Container>
   )
 }
@@ -76,6 +82,7 @@ const ImageTitle = styled.div`
 const Controls = styled.div`
 
   display: flex;
+  align-items: center;
 
 `
 
@@ -110,10 +117,44 @@ const TrailerButton = styled(PlayButton)`
 
 const AddButton = styled.button`
 
+  margin-right: 16px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 2px solid white;
+  background-color: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+
+  span {
+    font-size: 30px;
+    color: white;
+  }
 
 `
 
-const GroupWatchButton = styled.button`
+const GroupWatchButton = styled(AddButton)`
 
+  background: rgb(0, 0, 0);
+
+`
+
+const SubTitle = styled.div`
+
+color: rgb(249, 249, 249);
+font-size: 15px;
+min-height: 20px;
+margin-top: 26px; 
+
+`
+
+const Description = styled.div`
+
+  line-height: 1.4; 
+  font-size: 20px;
+  margin-top: 16px;
+  color: rgb(249, 249, 249);
 
 `
