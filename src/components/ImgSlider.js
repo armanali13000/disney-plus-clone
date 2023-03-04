@@ -25,6 +25,18 @@ function ImgSlider() {
        <Wrap>
         <img src="/images/slider-badag.jpg" />
        </Wrap>
+       <Wrap>
+        <img src="/images/slider-scale.jpg" />
+       </Wrap>
+       <Wrap>
+        <img src="/images/doctor-strange-2.jpg" />
+       </Wrap>
+       <Wrap>
+        <img src="/images/slider-badging.jpg" />
+       </Wrap>
+       <Wrap>
+        <img src="/images/slider-badag.jpg" />
+       </Wrap>
 
     </Carousal>
   )
