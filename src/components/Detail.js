@@ -5,25 +5,25 @@ function Detail() {
   return (
     <Container>
       <Background>
-        <img src="https://images7.alphacoders.com/122/1228112.jpg" />
+        <img src="https://images7.alphacoders.com/122/1228112.jpg" alt='' />
       </Background>
       <ImageTitle>
-          <img src="\images\doctor-strange-2 logo.png" />
+          <img src="\images\doctor-strange-2 logo.png" alt='' />
       </ImageTitle>
       <Controls>
         <PlayButton>
-          <img src="/images/play-icon-black.png" />
+          <img src="/images/play-icon-black.png" alt='' />
           <span>PLAY</span>
         </PlayButton>
         <TrailerButton>
-          <img src="/images/play-icon-white.png" />
+          <img src="/images/play-icon-white.png" alt='' />
           <span>TRAILER</span>
         </TrailerButton>
         <AddButton>
           <span>+</span>
         </AddButton>
         <GroupWatchButton>
-          <img src="/images/group-icon.png" />
+          <img src="/images/group-icon.png" alt='' />
         </GroupWatchButton>
       </Controls>
         <SubTitle>

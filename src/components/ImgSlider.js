@@ -20,22 +20,22 @@ function ImgSlider() {
     <Carousal {...settings}>
 
        <Wrap>
-        <img src="/images/slider-badging.jpg" />
+        <img src="/images/slider-badging.jpg" alt='' />
        </Wrap>
        <Wrap>
-        <img src="/images/slider-badag.jpg" />
+        <img src="/images/slider-badag.jpg" alt='' />
        </Wrap>
        <Wrap>
-        <img src="/images/slider-scale.jpg" />
+        <img src="/images/slider-scale.jpg" alt='' />
        </Wrap>
        <Wrap>
-        <img src="/images/doctor-strange-2.jpg" />
+        <img src="/images/doctor-strange-2.jpg" alt='' />
        </Wrap>
        <Wrap>
-        <img src="/images/slider-badging.jpg" />
+        <img src="/images/slider-badging.jpg" alt='' />
        </Wrap>
        <Wrap>
-        <img src="/images/slider-badag.jpg" />
+        <img src="/images/slider-badag.jpg" alt='' />
        </Wrap>
 
     </Carousal>

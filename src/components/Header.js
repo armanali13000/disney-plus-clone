@@ -4,35 +4,35 @@ import styled from 'styled-components'
 function Header() {
   return (
     <Nav>
-        <Logo src="/images/logo.svg" />
+        <Logo src="/images/logo.svg" alt='' />
         <NavMenu>
 
             <a>
-                <img src='/images/home-icon.svg' />
+                <img src='/images/home-icon.svg' alt='' />
                 <span>HOME</span>
             </a>
             <a>
-                <img src='/images/search-icon.svg' />
+                <img src='/images/search-icon.svg' alt='' />
                 <span>SEARCH</span>
             </a>
             <a>
-                <img src='/images/watchList-icon.svg' />
+                <img src='/images/watchList-icon.svg' alt='' />
                 <span>WATCHLIST</span>
             </a>
             <a>
-                <img src='/images/original-icon.svg' />
+                <img src='/images/original-icon.svg' alt='' />
                 <span>ORIGINAL</span>
             </a>
             <a>
-                <img src='/images/movie-icon.svg' />
+                <img src='/images/movie-icon.svg' alt='' />
                 <span>MOVIE</span>
             </a>
             <a>
-                <img src='/images/series-icon.svg' />
+                <img src='/images/series-icon.svg' alt='' />
                 <span>SERIES</span>
             </a>
         </NavMenu>
-        <UserImg src='/images/me.jpeg' />
+        <UserImg src='/images/me.jpeg' alt='' />
     </Nav>
   )
 }

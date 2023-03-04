@@ -8,28 +8,28 @@ function Movies() {
         <h4>Recommended for you</h4>
         <Content>
             <Wrap>
-                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" />
+                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" alt='' />
             </Wrap>
             <Wrap>
-                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" />
+                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" alt='' />
             </Wrap>
             <Wrap>
-                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" />
+                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" alt='' />
             </Wrap>
             <Wrap>
-                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" />
+                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" alt='' />
             </Wrap>
             <Wrap>
-                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" />
+                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" alt='' />
             </Wrap>
             <Wrap>
-                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" />
+                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" alt='' />
             </Wrap>
             <Wrap>
-                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" />
+                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" alt='' />
             </Wrap>
             <Wrap>
-                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" />
+                <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Doctor-Strange-2.jpg" alt='' />
             </Wrap>
         </Content>
     </Container>
